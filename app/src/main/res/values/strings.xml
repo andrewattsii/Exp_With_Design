@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="post_author">Karen Walther</string>
+    <string name="post_job">Web Developer</string>
+</resources>
